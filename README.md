@@ -1,9 +1,9 @@
-# Auto Launcher by Foxmoss
+# GuaVa Iguana
 
-A Windows utility for finding and checking local files.
+A Windows game launcher. Find your local game files once, then use Start Game.
 
 Game files and game executables are not included. Obtain your own files separately from authorized sources.
 
-The current portable preview inspects files and creates review copies. It does not run games or install updates automatically.
+Compatibility is experimental and depends on your game files, runtime and hardware. Usable gameplay is not guaranteed. This release is unsigned.
 
-Download the Windows 64-bit preview from Releases. Extract the package before opening the application.
+Download the Windows 64-bit installer from Releases. Run setup, then open GuaVa Iguana from the Start menu. No ZIP extraction is needed.
